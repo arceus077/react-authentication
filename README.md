@@ -4,8 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project is created using React library, It demonstrate a simple login and registration service. The configuration and credentials to read/write in backend service are configured in .env file. This project makes use of Material UI library.
 It uses 2 endpoints to register and login user,
-1. /register
-2. /auth/login
+1. POST /register
+2. POST /auth/login
 
 
 ## Pre-Requisite
