@@ -9,7 +9,7 @@ This project is created using React library, It demonstrate a simple login and r
 1. Install npm
 2. Start nest-authentication service for backend support ( https://github.com/arceus077/nestjs-authentication/tree/main )
 3. Configure Endpoint in .env file
-4. Run npm i
+4. Run npm install
 
 ## Available Scripts
 
@@ -37,3 +37,14 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+## Application Demo
+
+1. Login Page
+![LogIn](https://github.com/arceus077/react-authentication/assets/83462495/e18161a5-8273-4691-b3c3-0e2d5f8e74e3)
+
+2. SignUp Page
+![SignUp](https://github.com/arceus077/react-authentication/assets/83462495/0333f300-81b6-4fc5-a931-0d70e549a745)
+
+
+
