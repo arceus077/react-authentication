@@ -7,6 +7,7 @@ It uses 2 endpoints to register and login user,
 1. POST /register
 2. POST /auth/login
 
+Generating new auth-token from refresh-token feature has not been implemented here yet, it can be added in future.
 
 ## Pre-Requisite
 
