@@ -2,12 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project is created using React library, It demonstrate a simple login and registration service. The configuration and credentials to read/write backend service are configured in .env file. This project make use of Material UI library.
+This project is created using React library, It demonstrate a simple login and registration service. The configuration and credentials to read/write in backend service are configured in .env file. This project makes use of Material UI library.
 
 ## Pre-Requisite
 
 1. Install npm
-2. Start nest-authentication service for backend support
+2. Start nest-authentication service for backend support ( https://github.com/arceus077/nestjs-authentication/tree/main )
 3. Configure Endpoint in .env file
 4. Run npm i
 
