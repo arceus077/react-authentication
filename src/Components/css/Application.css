@@ -1,0 +1,16 @@
+.app {
+    width: -webkit-fill-available;
+    position: absolute;
+    margin-top: -28px;
+    margin-left: -28px;
+}
+
+.app-body {
+    margin: 150px auto;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    max-width: 800px;
+    line-height: 56px;
+    color: #c12727;
+}
